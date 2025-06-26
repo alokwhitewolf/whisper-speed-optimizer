@@ -21,10 +21,13 @@ class QualityEvaluator:
     def normalize_text(self, text: str, language: str = 'en') -> str:
         """
         Normalize text for fair comparison.
-        Handles language-specific normalization.
+        Handles language-specific normalization and strips metadata headers.
         """
         if not text:
             return ""
+        
+        # Strip metadata headers from transcriptions
+        text = self._strip_metadata_header(text)
         
         # Convert to lowercase
         if self.normalization_rules['lowercase']:
@@ -49,6 +52,45 @@ class QualityEvaluator:
             text = ' '.join(text.split())
         
         return text.strip()
+    
+    def _strip_metadata_header(self, text: str) -> str:
+        """
+        Strip metadata headers from transcription files that can contaminate WER/CER scores.
+        
+        Example headers:
+        File: video_normalized_speed_1.50x.mp3
+        Language: en
+        Model: whisper-1
+        Duration: 9.31s
+        File size: 1.09MB
+        ==================================================
+        """
+        # Remove lines starting with common metadata fields
+        lines = text.split('\n')
+        content_lines = []
+        
+        skip_patterns = [
+            r'^File:\s*',
+            r'^Language:\s*',
+            r'^Model:\s*',
+            r'^Duration:\s*',
+            r'^File size:\s*',
+            r'^={3,}',  # Lines with 3+ equals signs
+            r'^\s*$'    # Empty lines at start
+        ]
+        
+        content_started = False
+        for line in lines:
+            # Check if this line matches any skip pattern
+            should_skip = any(re.match(pattern, line) for pattern in skip_patterns)
+            
+            if not should_skip and line.strip():
+                content_started = True
+            
+            if content_started and not should_skip:
+                content_lines.append(line)
+        
+        return '\n'.join(content_lines).strip()
     
     def calculate_wer(self, reference: str, hypothesis: str, language: str = 'en') -> float:
         """

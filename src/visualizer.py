@@ -46,18 +46,21 @@ class Visualizer:
         """Plot WER curves for all videos."""
         fig, ax = plt.subplots(figsize=(14, 8))
         
+        # Filter data to only show up to 2.0x speed
+        df_filtered = df[df['speed'] <= 2.0].copy()
+        
         # Plot individual video curves
-        videos = df['video'].unique()
+        videos = df_filtered['video'].unique()
         colors = plt.cm.tab20(np.linspace(0, 1, len(videos)))
         
         for i, video in enumerate(videos):
-            video_data = df[df['video'] == video].sort_values('speed')
+            video_data = df_filtered[df_filtered['video'] == video].sort_values('speed')
             ax.plot(video_data['speed'], video_data['wer'], 
                    color=colors[i], alpha=0.6, linewidth=1.5, 
                    marker='o', markersize=3)
         
         # Plot average line
-        avg_data = df.groupby('speed')['wer'].mean().reset_index()
+        avg_data = df_filtered.groupby('speed')['wer'].mean().reset_index()
         ax.plot(avg_data['speed'], avg_data['wer'], 
                color='black', linewidth=3, linestyle='--', 
                marker='s', markersize=6, label='Average', zorder=10)
@@ -71,7 +74,7 @@ class Visualizer:
         ax.set_title('Quality Impact Across All Speeds', fontsize=16, fontweight='bold')
         ax.grid(True, alpha=0.3)
         ax.legend()
-        ax.set_xlim(1.0, 2.1)
+        ax.set_xlim(1.0, 2.0)
         
         plt.tight_layout()
         plt.savefig(self.output_dir / "speed_curves.png", dpi=300, bbox_inches='tight')
@@ -81,16 +84,14 @@ class Visualizer:
         """Plot cost vs quality tradeoff analysis."""
         fig, ax = plt.subplots(figsize=(12, 8))
         
-        # Define quality zones
-        ax.axhspan(0, 2, 0, 60, alpha=0.2, color='green', label='Excellent Quality')
-        ax.axhspan(2, 5, 0, 60, alpha=0.2, color='yellow', label='Good Quality')
-        ax.axhspan(5, 100, 0, 60, alpha=0.2, color='red', label='Poor Quality')
+        # Filter data to only show up to 2.0x speed
+        df_filtered = df[df['speed'] <= 2.0].copy()
         
         # Plot individual points
-        ax.scatter(df['cost_savings'], df['wer'], alpha=0.5, s=40, color='gray')
+        ax.scatter(df_filtered['cost_savings'], df_filtered['wer'], alpha=0.5, s=40, color='gray')
         
         # Plot average line
-        speed_avg = df.groupby('speed').agg({
+        speed_avg = df_filtered.groupby('speed').agg({
             'wer': 'mean',
             'cost_savings': 'mean'
         }).reset_index()
@@ -111,7 +112,6 @@ class Visualizer:
         ax.set_xlabel('Cost Savings (%)', fontsize=14, fontweight='bold')
         ax.set_ylabel('Quality Loss (% WER increase)', fontsize=14, fontweight='bold')
         ax.set_title('Cost vs Quality Tradeoff Analysis', fontsize=16, fontweight='bold')
-        ax.legend(loc='upper left')
         ax.grid(True, alpha=0.3)
         ax.set_xlim(5, 55)
         ax.set_ylim(-1, 12)
