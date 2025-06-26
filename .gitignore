@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (large datasets)
+data/
+processed_audio/
+transcription_logs/
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+
+# API keys and secrets
+.env
+*.key
+config.json
+secrets.json
+
+# Results and outputs (keep structure, exclude large files)
+results/*.csv
+results/*.json
+results/experiment_*
+results/binary_search_logs/
+results/quality_curves/
+
+# Plots (too many, users can regenerate)
+plots/*.png
+advanced_visualizations/
+executive_charts/
+standalone_plots/
+complete_analysis/
+partial_plots/
+
+# Archive directory
+archive/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+coverage_matrix.csv
+missing_experiments*.csv
+missing_experiments*.json
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+*.ipynb
+
+# OpenAI cache
+.openai_cache/
+
+# Large analysis files (keep only essential ones)
+# Keep the baseline analysis directory but exclude very large files
+!baseline_1x_analysis/
+!baseline_1x_analysis/raw_video_analysis.json
+!curated_videos.json
+!requirements.txt
+!README.md

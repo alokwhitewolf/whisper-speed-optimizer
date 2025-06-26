@@ -1,0 +1,295 @@
+{
+  "english_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
+      "name": "kurzgesagt_quantum",
+      "title": "Quantum Computers Explained \u2013 Limits of Human Technology",
+      "duration_approx": "7:17",
+      "description": "Educational content about quantum computing with clear narration",
+      "channel": "Kurzgesagt \u2013 In a Nutshell",
+      "language": "en",
+      "verified": true,
+      "category": "science_education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AuX7nPBqDts",
+      "name": "khan_academy_addition",
+      "title": "Basic addition | Addition and subtraction | Arithmetic | Khan Academy",
+      "duration_approx": "7:43",
+      "description": "Khan Academy math lesson with clear educational speech",
+      "channel": "Khan Academy",
+      "language": "en",
+      "verified": true,
+      "category": "math_education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kp33ZprO0Ck",
+      "name": "engineerguy_microwave",
+      "title": "How a Microwave Oven Works",
+      "duration_approx": "5:11",
+      "description": "Engineering explanation with clear technical narration",
+      "channel": "engineerguy",
+      "language": "en",
+      "verified": true,
+      "category": "engineering"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "name": "aircAruvnKk",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "duration_approx": "18:41",
+      "description": "Educational content from 3Blue1Brown",
+      "channel": "3Blue1Brown",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
+      "name": "WUvTyaaNkzM",
+      "title": "The essence of calculus",
+      "duration_approx": "17:04",
+      "description": "Educational content from 3Blue1Brown",
+      "channel": "3Blue1Brown",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UyyjU8fzEYU",
+      "name": "UyyjU8fzEYU",
+      "title": "My stroke of insight | Jill Bolte Taylor | TED",
+      "duration_approx": "20:11",
+      "description": "Educational content from TED",
+      "channel": "TED",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yWO-cvGETRQ",
+      "name": "yWO-cvGETRQ",
+      "title": "Why Black Holes Could Delete The Universe \u2013 The Information Paradox",
+      "duration_approx": "10:12",
+      "description": "Educational content from Kurzgesagt \u2013 In a Nutshell",
+      "channel": "Kurzgesagt \u2013 In a Nutshell",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ywn2Lz5zmYg",
+      "name": "Ywn2Lz5zmYg",
+      "title": "The True Science of Parallel Universes",
+      "duration_approx": "4:56",
+      "description": "Educational content from minutephysics",
+      "channel": "minutephysics",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3MqYE2UuN24",
+      "name": "3MqYE2UuN24",
+      "title": "Is it Better to Walk or Run in the Rain?",
+      "duration_approx": "2:02",
+      "description": "Educational content from minutephysics",
+      "channel": "minutephysics",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xc4xYacTu-E",
+      "name": "Xc4xYacTu-E",
+      "title": "Which Way Is Down?",
+      "duration_approx": "26:10",
+      "description": "Educational content from Vsauce",
+      "channel": "Vsauce",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tmNXKqeUtJM",
+      "name": "tmNXKqeUtJM",
+      "title": "Why is the Solar System Flat?",
+      "duration_approx": "3:12",
+      "description": "Educational content from minutephysics",
+      "channel": "minutephysics",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XayNKY944lY",
+      "name": "XayNKY944lY",
+      "title": "Solution to the Grandfather Paradox",
+      "duration_approx": "2:48",
+      "description": "Educational content from minutephysics",
+      "channel": "minutephysics",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L45Q1_psDqk",
+      "name": "L45Q1_psDqk",
+      "title": "Is Anything Real?",
+      "duration_approx": "11:32",
+      "description": "Educational content from Vsauce",
+      "channel": "Vsauce",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IJhgZBn-LHg",
+      "name": "IJhgZBn-LHg",
+      "title": "How Earth Moves",
+      "duration_approx": "21:37",
+      "description": "Educational content from Vsauce",
+      "channel": "Vsauce",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kTXTPe3wahc",
+      "name": "kTXTPe3wahc",
+      "title": "Parallel Worlds Probably Exist. Here\u2019s Why",
+      "duration_approx": "19:59",
+      "description": "Educational content from Veritasium",
+      "channel": "Veritasium",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=riXcZT2ICjA",
+      "name": "riXcZT2ICjA",
+      "title": "Introduction to limits | Limits | Differential Calculus | Khan Academy",
+      "duration_approx": "11:32",
+      "description": "Educational content from Khan Academy",
+      "channel": "Khan Academy",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2UHS883_P60",
+      "name": "2UHS883_P60",
+      "title": "Stacked Ball Drop",
+      "duration_approx": "3:34",
+      "description": "Educational content from Physics Girl",
+      "channel": "Physics Girl",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
+      "name": "x7X9w_GIm1s",
+      "title": "Python in 100 Seconds",
+      "duration_approx": "2:23",
+      "description": "Educational content from Fireship",
+      "channel": "Fireship",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3PszVWZNWVA",
+      "name": "3PszVWZNWVA",
+      "title": "Fall of The Roman Empire...in the 15th Century: Crash Course World History #12",
+      "duration_approx": "12:44",
+      "description": "Educational content from CrashCourse",
+      "channel": "CrashCourse",
+      "language": "en",
+      "verified": true,
+      "category": "education"
+    }
+  ],
+  "hindi_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=PLACEHOLDER_1",
+      "name": "hindi_education_1",
+      "title": "TO BE REPLACED - Hindi Educational Content",
+      "duration_approx": "5:00",
+      "description": "PLACEHOLDER - Need to find actual Hindi educational video",
+      "channel": "TBD",
+      "language": "hi",
+      "verified": false,
+      "note": "REQUIRES MANUAL SEARCH - Find Physics Wallah, Unacademy, or BYJU'S Hindi content"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PLACEHOLDER_2",
+      "name": "hindi_news",
+      "title": "TO BE REPLACED - Hindi News Content",
+      "duration_approx": "4:00",
+      "description": "PLACEHOLDER - Need to find actual Hindi news video",
+      "channel": "TBD",
+      "language": "hi",
+      "verified": false,
+      "note": "REQUIRES MANUAL SEARCH - Find Aaj Tak, NDTV, or Zee News Hindi content"
+    }
+  ],
+  "status": {
+    "english_ready": true,
+    "english_count": 19,
+    "english_total_duration": "~4h total",
+    "hindi_ready": false,
+    "hindi_count": 0,
+    "note": "19 verified educational videos with captions"
+  },
+  "quick_start_option": {
+    "english_only": {
+      "ready": true,
+      "command": "python setup_experiment.py --api-key YOUR_KEY",
+      "note": "Can immediately run experiment with 3 English videos (20+ minutes total)"
+    },
+    "add_hindi": {
+      "manual_steps": [
+        "1. Go to YouTube and search 'Physics Wallah chemistry Hindi'",
+        "2. Find a 4-6 minute video with captions",
+        "3. Copy the URL and replace PLACEHOLDER_1",
+        "4. Search 'Aaj Tak Hindi news' for news content",
+        "5. Find a 3-5 minute news clip with captions",
+        "6. Copy the URL and replace PLACEHOLDER_2",
+        "7. Update the titles and channels accordingly"
+      ]
+    }
+  },
+  "verified_working_urls": {
+    "JhHMJCUmq28": {
+      "title": "Quantum Computers Explained \u2013 Limits of Human Technology",
+      "channel": "Kurzgesagt \u2013 In a Nutshell",
+      "duration": "7:17",
+      "views": "19,102,312",
+      "subtitles": true,
+      "auto_captions": true
+    },
+    "AuX7nPBqDts": {
+      "title": "Basic addition | Addition and subtraction | Arithmetic | Khan Academy",
+      "channel": "Khan Academy",
+      "duration": "7:43",
+      "views": "3,504,680",
+      "subtitles": true,
+      "auto_captions": true
+    },
+    "kp33ZprO0Ck": {
+      "title": "How a Microwave Oven Works",
+      "channel": "engineerguy",
+      "duration": "5:11",
+      "views": "5,099,345",
+      "subtitles": true,
+      "auto_captions": true
+    }
+  },
+  "dataset_strategy": {
+    "phase_1": "Use 3 verified English videos to test the speed optimization framework",
+    "phase_2": "Manually add 2-3 Hindi videos by searching YouTube directly",
+    "phase_3": "Run full English+Hindi experiment",
+    "fallback": "If Hindi videos are hard to find, run English-only experiment first to validate the approach"
+  }
+}

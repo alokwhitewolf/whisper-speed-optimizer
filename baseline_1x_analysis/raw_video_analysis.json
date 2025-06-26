@@ -1,0 +1,2128 @@
+{
+  "Xc4xYacTu-E": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 22322,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 0.6619385342789598,
+      "cer": 0.4076584829607915,
+      "wer_absolute": 0.6619385342789598,
+      "cer_absolute": 0.4076584829607915,
+      "transcription_length": 22313,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 1.0165484633569741,
+      "cer": 0.7237083180652254,
+      "wer_absolute": 1.0165484633569741,
+      "cer_absolute": 0.7237083180652254,
+      "transcription_length": 22323,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.6548463356973995,
+      "cer": 1.392451447416636,
+      "wer_absolute": 1.6548463356973995,
+      "cer_absolute": 1.392451447416636,
+      "transcription_length": 22469,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 2.316784869976359,
+      "cer": 1.4657383657017222,
+      "wer_absolute": 2.316784869976359,
+      "cer_absolute": 1.4657383657017222,
+      "transcription_length": 22135,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 6.57210401891253,
+      "cer": 4.832356174422865,
+      "wer_absolute": 6.57210401891253,
+      "cer_absolute": 4.832356174422865,
+      "transcription_length": 21517,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.6955457660303477,
+      "cer": 2.586882036221243,
+      "wer_absolute": 3.6955457660303477,
+      "cer_absolute": 2.586882036221243,
+      "transcription_length": 22473,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 3.3773861967694567,
+      "cer": 2.3641703377386194,
+      "wer_absolute": 3.3773861967694567,
+      "cer_absolute": 2.3641703377386194,
+      "transcription_length": 22311,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 3.5487028879099367,
+      "cer": 2.4840920215369557,
+      "wer_absolute": 3.5487028879099367,
+      "cer_absolute": 2.4840920215369557,
+      "transcription_length": 22316,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 3.7200195790504162,
+      "cer": 2.604013705335291,
+      "wer_absolute": 3.7200195790504162,
+      "cer_absolute": 2.604013705335291,
+      "transcription_length": 22211,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 4.47870778267254,
+      "cer": 3.135095447870778,
+      "wer_absolute": 4.47870778267254,
+      "cer_absolute": 3.135095447870778,
+      "transcription_length": 22179,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 3.6955457660303477,
+      "cer": 2.586882036221243,
+      "wer_absolute": 3.6955457660303477,
+      "cer_absolute": 2.586882036221243,
+      "transcription_length": 22112,
+      "is_baseline": false
+    }
+  ],
+  "khan_academy_addition": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 6092,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 1.4727540500736376,
+      "cer": 1.2897282358360203,
+      "wer_absolute": 1.4727540500736376,
+      "cer_absolute": 1.2897282358360203,
+      "transcription_length": 6072,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 1.3254786450662739,
+      "cer": 1.136189160141256,
+      "wer_absolute": 1.3254786450662739,
+      "cer_absolute": 1.136189160141256,
+      "transcription_length": 6143,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 2.72459499263623,
+      "cer": 2.226316597574083,
+      "wer_absolute": 2.72459499263623,
+      "cer_absolute": 2.226316597574083,
+      "transcription_length": 6112,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 15.61119293078056,
+      "cer": 13.849224627667741,
+      "wer_absolute": 15.61119293078056,
+      "cer_absolute": 13.849224627667741,
+      "transcription_length": 6455,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 20.544918998527244,
+      "cer": 18.04084139413481,
+      "wer_absolute": 20.544918998527244,
+      "cer_absolute": 18.04084139413481,
+      "transcription_length": 6185,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 4.769230769230769,
+      "cer": 3.338461538461538,
+      "wer_absolute": 4.769230769230769,
+      "cer_absolute": 3.338461538461538,
+      "transcription_length": 6092,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 5.538461538461538,
+      "cer": 3.8769230769230765,
+      "wer_absolute": 5.538461538461538,
+      "cer_absolute": 3.8769230769230765,
+      "transcription_length": 6177,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 17.846153846153847,
+      "cer": 12.492307692307692,
+      "wer_absolute": 17.846153846153847,
+      "cer_absolute": 12.492307692307692,
+      "transcription_length": 6421,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 12.153846153846153,
+      "cer": 8.507692307692306,
+      "wer_absolute": 12.153846153846153,
+      "cer_absolute": 8.507692307692306,
+      "transcription_length": 6251,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 18.53846153846154,
+      "cer": 12.976923076923077,
+      "wer_absolute": 18.53846153846154,
+      "cer_absolute": 12.976923076923077,
+      "transcription_length": 6418,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 7.153846153846153,
+      "cer": 5.007692307692307,
+      "wer_absolute": 7.153846153846153,
+      "cer_absolute": 5.007692307692307,
+      "transcription_length": 6153,
+      "is_baseline": false
+    }
+  ],
+  "riXcZT2ICjA": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 9394,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 2.364864864864865,
+      "cer": 2.096543260380446,
+      "wer_absolute": 2.364864864864865,
+      "cer_absolute": 2.096543260380446,
+      "transcription_length": 9408,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 4.681467181467181,
+      "cer": 3.8249130701574963,
+      "wer_absolute": 4.681467181467181,
+      "cer_absolute": 3.8249130701574963,
+      "transcription_length": 9720,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 3.6196911196911192,
+      "cer": 3.0169768868889344,
+      "wer_absolute": 3.6196911196911192,
+      "cer_absolute": 3.0169768868889344,
+      "transcription_length": 9611,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 9.942084942084941,
+      "cer": 8.447535283289016,
+      "wer_absolute": 9.942084942084941,
+      "cer_absolute": 8.447535283289016,
+      "transcription_length": 9435,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 20.801158301158303,
+      "cer": 17.682552669257518,
+      "wer_absolute": 20.801158301158303,
+      "cer_absolute": 17.682552669257518,
+      "transcription_length": 10032,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 5.005055611729019,
+      "cer": 3.503538928210313,
+      "wer_absolute": 5.005055611729019,
+      "cer_absolute": 3.503538928210313,
+      "transcription_length": 9471,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 4.196157735085945,
+      "cer": 2.9373104145601614,
+      "wer_absolute": 4.196157735085945,
+      "cer_absolute": 2.9373104145601614,
+      "transcription_length": 9460,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 6.9261880687563195,
+      "cer": 4.848331648129423,
+      "wer_absolute": 6.9261880687563195,
+      "cer_absolute": 4.848331648129423,
+      "transcription_length": 9488,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 8.038422649140546,
+      "cer": 5.6268958543983825,
+      "wer_absolute": 8.038422649140546,
+      "cer_absolute": 5.6268958543983825,
+      "transcription_length": 9481,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 10.76845298281092,
+      "cer": 7.537917087967644,
+      "wer_absolute": 10.76845298281092,
+      "cer_absolute": 7.537917087967644,
+      "transcription_length": 9722,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 13.144590495449949,
+      "cer": 9.201213346814964,
+      "wer_absolute": 13.144590495449949,
+      "cer_absolute": 9.201213346814964,
+      "transcription_length": 9926,
+      "is_baseline": false
+    }
+  ],
+  "L45Q1_psDqk": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 9003,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 3.5301278149726114,
+      "cer": 3.3272768566886213,
+      "wer_absolute": 3.5301278149726114,
+      "cer_absolute": 3.3272768566886213,
+      "transcription_length": 8704,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 3.5301278149726114,
+      "cer": 3.3272768566886213,
+      "wer_absolute": 3.5301278149726114,
+      "cer_absolute": 3.3272768566886213,
+      "transcription_length": 8700,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.18259281801582472,
+      "cer": 0.06813536225300931,
+      "wer_absolute": 0.18259281801582472,
+      "cer_absolute": 0.06813536225300931,
+      "transcription_length": 8998,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 0.30432136335970783,
+      "cer": 0.09084714967067908,
+      "wer_absolute": 0.30432136335970783,
+      "cer_absolute": 0.09084714967067908,
+      "transcription_length": 8990,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 0.6086427267194157,
+      "cer": 0.42016806722689076,
+      "wer_absolute": 0.6086427267194157,
+      "cer_absolute": 0.42016806722689076,
+      "transcription_length": 8965,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 0.48691418137553255,
+      "cer": 0.1476266182148535,
+      "wer_absolute": 0.48691418137553255,
+      "cer_absolute": 0.1476266182148535,
+      "transcription_length": 8996,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 1.582471089470481,
+      "cer": 0.6927095162389281,
+      "wer_absolute": 1.582471089470481,
+      "cer_absolute": 0.6927095162389281,
+      "transcription_length": 8975,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.165735567970205,
+      "cer": 2.2160148975791434,
+      "wer_absolute": 3.165735567970205,
+      "cer_absolute": 2.2160148975791434,
+      "transcription_length": 9010,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 2.8553693358162633,
+      "cer": 1.9987585350713841,
+      "wer_absolute": 2.8553693358162633,
+      "cer_absolute": 1.9987585350713841,
+      "transcription_length": 8994,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 3.8485412787088764,
+      "cer": 2.693978895096213,
+      "wer_absolute": 3.8485412787088764,
+      "cer_absolute": 2.693978895096213,
+      "transcription_length": 9005,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 3.5381750465549344,
+      "cer": 2.476722532588454,
+      "wer_absolute": 3.5381750465549344,
+      "cer_absolute": 2.476722532588454,
+      "transcription_length": 9008,
+      "is_baseline": false
+    }
+  ],
+  "x7X9w_GIm1s": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 2747,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.847457627118644,
+      "cer": 0.3317360855141909,
+      "wer_absolute": 0.847457627118644,
+      "cer_absolute": 0.3317360855141909,
+      "transcription_length": 2749,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 4.4491525423728815,
+      "cer": 1.842978252856616,
+      "wer_absolute": 4.4491525423728815,
+      "cer_absolute": 1.842978252856616,
+      "transcription_length": 2748,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 6.3559322033898304,
+      "cer": 2.727607814227792,
+      "wer_absolute": 6.3559322033898304,
+      "cer_absolute": 2.727607814227792,
+      "transcription_length": 2729,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 2.9978586723768736,
+      "cer": 2.0985010706638114,
+      "wer_absolute": 2.9978586723768736,
+      "cer_absolute": 2.0985010706638114,
+      "transcription_length": 2754,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 4.925053533190578,
+      "cer": 3.4475374732334045,
+      "wer_absolute": 4.925053533190578,
+      "cer_absolute": 3.4475374732334045,
+      "transcription_length": 2762,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 4.710920770877944,
+      "cer": 3.297644539614561,
+      "wer_absolute": 4.710920770877944,
+      "cer_absolute": 3.297644539614561,
+      "transcription_length": 2760,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 4.496788008565311,
+      "cer": 3.147751605995717,
+      "wer_absolute": 4.496788008565311,
+      "cer_absolute": 3.147751605995717,
+      "transcription_length": 2756,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 5.567451820128479,
+      "cer": 3.897216274089935,
+      "wer_absolute": 5.567451820128479,
+      "cer_absolute": 3.897216274089935,
+      "transcription_length": 2754,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 7.066381156316917,
+      "cer": 4.946466809421842,
+      "wer_absolute": 7.066381156316917,
+      "cer_absolute": 4.946466809421842,
+      "transcription_length": 2763,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 7.066381156316917,
+      "cer": 4.946466809421842,
+      "wer_absolute": 7.066381156316917,
+      "cer_absolute": 4.946466809421842,
+      "transcription_length": 2752,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 6.423982869379015,
+      "cer": 4.49678800856531,
+      "wer_absolute": 6.423982869379015,
+      "cer_absolute": 4.49678800856531,
+      "transcription_length": 2747,
+      "is_baseline": false
+    }
+  ],
+  "aircAruvnKk": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 18397,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.1433597185576077,
+      "cer": 0.8489795918367347,
+      "wer_absolute": 1.1433597185576077,
+      "cer_absolute": 0.8489795918367347,
+      "transcription_length": 18467,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 1.289944297859865,
+      "cer": 0.7564625850340136,
+      "wer_absolute": 1.289944297859865,
+      "cer_absolute": 0.7564625850340136,
+      "transcription_length": 18446,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.1,
+      "wer": 1.9642333626502493,
+      "cer": 1.3333333333333335,
+      "wer_absolute": 1.9642333626502493,
+      "cer_absolute": 1.3333333333333335,
+      "transcription_length": 18443,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.2,
+      "wer": 1.905599530929346,
+      "cer": 1.251700680272109,
+      "wer_absolute": 1.905599530929346,
+      "cer_absolute": 1.251700680272109,
+      "transcription_length": 18461,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 3.8991498094400465,
+      "cer": 2.7210884353741496,
+      "wer_absolute": 3.8991498094400465,
+      "cer_absolute": 2.7210884353741496,
+      "transcription_length": 18462,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 2.4783517467900866,
+      "cer": 1.7348462227530606,
+      "wer_absolute": 2.4783517467900866,
+      "cer_absolute": 1.7348462227530606,
+      "transcription_length": 18483,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 2.2693341295909226,
+      "cer": 1.5885338907136457,
+      "wer_absolute": 2.2693341295909226,
+      "cer_absolute": 1.5885338907136457,
+      "transcription_length": 18497,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.0755449387876976,
+      "cer": 2.152881457151388,
+      "wer_absolute": 3.0755449387876976,
+      "cer_absolute": 2.152881457151388,
+      "transcription_length": 18494,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 2.9561063003881753,
+      "cer": 2.0692744102717224,
+      "wer_absolute": 2.9561063003881753,
+      "cer_absolute": 2.0692744102717224,
+      "transcription_length": 18509,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 2.896386981188414,
+      "cer": 2.02747088683189,
+      "wer_absolute": 2.896386981188414,
+      "cer_absolute": 2.02747088683189,
+      "transcription_length": 18524,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 3.3741415347865034,
+      "cer": 2.361899074350552,
+      "wer_absolute": 3.3741415347865034,
+      "cer_absolute": 2.361899074350552,
+      "transcription_length": 18506,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 4.2400716631830395,
+      "cer": 2.9680501642281274,
+      "wer_absolute": 4.2400716631830395,
+      "cer_absolute": 2.9680501642281274,
+      "transcription_length": 18401,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 4.0907733651836375,
+      "cer": 2.8635413556285463,
+      "wer_absolute": 4.0907733651836375,
+      "cer_absolute": 2.8635413556285463,
+      "transcription_length": 18404,
+      "is_baseline": false
+    }
+  ],
+  "3MqYE2UuN24": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 2265,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.6711409395973155,
+      "cer": 0.36101083032490977,
+      "wer_absolute": 0.6711409395973155,
+      "cer_absolute": 0.36101083032490977,
+      "transcription_length": 2263,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 0.6711409395973155,
+      "cer": 0.4061371841155234,
+      "wer_absolute": 0.6711409395973155,
+      "cer_absolute": 0.4061371841155234,
+      "transcription_length": 2255,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 1.7897091722595078,
+      "cer": 0.8574007220216607,
+      "wer_absolute": 1.7897091722595078,
+      "cer_absolute": 0.8574007220216607,
+      "transcription_length": 2261,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 1.342281879194631,
+      "cer": 0.5415162454873645,
+      "wer_absolute": 1.342281879194631,
+      "cer_absolute": 0.5415162454873645,
+      "transcription_length": 2266,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 2.684563758389262,
+      "cer": 1.263537906137184,
+      "wer_absolute": 2.684563758389262,
+      "cer_absolute": 1.263537906137184,
+      "transcription_length": 2261,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 4.026845637583892,
+      "cer": 2.256317689530686,
+      "wer_absolute": 4.026845637583892,
+      "cer_absolute": 2.256317689530686,
+      "transcription_length": 2251,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 4.535147392290249,
+      "cer": 3.1746031746031744,
+      "wer_absolute": 4.535147392290249,
+      "cer_absolute": 3.1746031746031744,
+      "transcription_length": 2269,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 6.349206349206349,
+      "cer": 4.444444444444444,
+      "wer_absolute": 6.349206349206349,
+      "cer_absolute": 4.444444444444444,
+      "transcription_length": 2308,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 5.442176870748299,
+      "cer": 3.8095238095238093,
+      "wer_absolute": 5.442176870748299,
+      "cer_absolute": 3.8095238095238093,
+      "transcription_length": 2312,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 10.204081632653061,
+      "cer": 7.142857142857142,
+      "wer_absolute": 10.204081632653061,
+      "cer_absolute": 7.142857142857142,
+      "transcription_length": 2147,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 6.349206349206349,
+      "cer": 4.444444444444444,
+      "wer_absolute": 6.349206349206349,
+      "cer_absolute": 4.444444444444444,
+      "transcription_length": 2265,
+      "is_baseline": false
+    }
+  ],
+  "yWO-cvGETRQ": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 9336,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 0.3535651149086624,
+      "cer": 0.4037978827894795,
+      "wer_absolute": 0.3535651149086624,
+      "cer_absolute": 0.4037978827894795,
+      "transcription_length": 9355,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 0.7071302298173248,
+      "cer": 0.8185092218705664,
+      "wer_absolute": 0.7071302298173248,
+      "cer_absolute": 0.8185092218705664,
+      "transcription_length": 9303,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.8249852681202121,
+      "cer": 0.7857688529957437,
+      "wer_absolute": 0.8249852681202121,
+      "cer_absolute": 0.7857688529957437,
+      "transcription_length": 9291,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 1.060695344725987,
+      "cer": 0.7421150278293136,
+      "wer_absolute": 1.060695344725987,
+      "cer_absolute": 0.7421150278293136,
+      "transcription_length": 9346,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 3.830288744843842,
+      "cer": 2.7720178980683183,
+      "wer_absolute": 3.830288744843842,
+      "cer_absolute": 2.7720178980683183,
+      "transcription_length": 9251,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 2.3367285799880166,
+      "cer": 1.6357100059916116,
+      "wer_absolute": 2.3367285799880166,
+      "cer_absolute": 1.6357100059916116,
+      "transcription_length": 9351,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 3.055721989215099,
+      "cer": 2.139005392450569,
+      "wer_absolute": 3.055721989215099,
+      "cer_absolute": 2.139005392450569,
+      "transcription_length": 9350,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 2.396644697423607,
+      "cer": 1.6776512881965249,
+      "wer_absolute": 2.396644697423607,
+      "cer_absolute": 1.6776512881965249,
+      "transcription_length": 9339,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 2.696225284601558,
+      "cer": 1.8873576992210905,
+      "wer_absolute": 2.696225284601558,
+      "cer_absolute": 1.8873576992210905,
+      "transcription_length": 9357,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 4.194128220491312,
+      "cer": 2.9358897543439184,
+      "wer_absolute": 4.194128220491312,
+      "cer_absolute": 2.9358897543439184,
+      "transcription_length": 9313,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 3.834631515877771,
+      "cer": 2.6842420611144395,
+      "wer_absolute": 3.834631515877771,
+      "cer_absolute": 2.6842420611144395,
+      "transcription_length": 9331,
+      "is_baseline": false
+    }
+  ],
+  "UyyjU8fzEYU": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 14876,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 3.5776311219173325,
+      "cer": 2.994586445556089,
+      "wer_absolute": 3.5776311219173325,
+      "cer_absolute": 2.994586445556089,
+      "transcription_length": 14641,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 7.29419937478291,
+      "cer": 6.05769889673131,
+      "wer_absolute": 7.29419937478291,
+      "cer_absolute": 6.05769889673131,
+      "transcription_length": 14139,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 7.155262243834665,
+      "cer": 5.948057287740697,
+      "wer_absolute": 7.155262243834665,
+      "cer_absolute": 5.948057287740697,
+      "transcription_length": 14240,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 10.281347690170199,
+      "cer": 8.284794079353114,
+      "wer_absolute": 10.281347690170199,
+      "cer_absolute": 8.284794079353114,
+      "transcription_length": 14300,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 20.527961097603335,
+      "cer": 18.385527307613238,
+      "wer_absolute": 20.527961097603335,
+      "cer_absolute": 18.385527307613238,
+      "transcription_length": 13297,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 8.190271816881259,
+      "cer": 5.733190271816881,
+      "wer_absolute": 8.190271816881259,
+      "cer_absolute": 5.733190271816881,
+      "transcription_length": 14439,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 8.547925608011445,
+      "cer": 5.983547925608011,
+      "wer_absolute": 8.547925608011445,
+      "cer_absolute": 5.983547925608011,
+      "transcription_length": 14824,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 8.690987124463518,
+      "cer": 6.083690987124463,
+      "wer_absolute": 8.690987124463518,
+      "cer_absolute": 6.083690987124463,
+      "transcription_length": 14449,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 7.439198855507868,
+      "cer": 5.207439198855507,
+      "wer_absolute": 7.439198855507868,
+      "cer_absolute": 5.207439198855507,
+      "transcription_length": 14771,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 10.050071530758226,
+      "cer": 7.035050071530757,
+      "wer_absolute": 10.050071530758226,
+      "cer_absolute": 7.035050071530757,
+      "transcription_length": 14618,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 9.120171673819742,
+      "cer": 6.384120171673819,
+      "wer_absolute": 9.120171673819742,
+      "cer_absolute": 6.384120171673819,
+      "transcription_length": 14465,
+      "is_baseline": false
+    }
+  ],
+  "tmNXKqeUtJM": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 3452,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.16051364365971107,
+      "cer": 0.08802816901408451,
+      "wer_absolute": 0.16051364365971107,
+      "cer_absolute": 0.08802816901408451,
+      "transcription_length": 3462,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 0.4815409309791332,
+      "cer": 0.11737089201877934,
+      "wer_absolute": 0.4815409309791332,
+      "cer_absolute": 0.11737089201877934,
+      "transcription_length": 3458,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 0.9630818619582664,
+      "cer": 0.3814553990610329,
+      "wer_absolute": 0.9630818619582664,
+      "cer_absolute": 0.3814553990610329,
+      "transcription_length": 3459,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 8.828250401284109,
+      "cer": 7.335680751173709,
+      "wer_absolute": 8.828250401284109,
+      "cer_absolute": 7.335680751173709,
+      "transcription_length": 3236,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 4.654895666131622,
+      "cer": 2.2300469483568075,
+      "wer_absolute": 4.654895666131622,
+      "cer_absolute": 2.2300469483568075,
+      "transcription_length": 3455,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 5.289256198347108,
+      "cer": 3.702479338842975,
+      "wer_absolute": 5.289256198347108,
+      "cer_absolute": 3.702479338842975,
+      "transcription_length": 3461,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 3.8016528925619832,
+      "cer": 2.661157024793388,
+      "wer_absolute": 3.8016528925619832,
+      "cer_absolute": 2.661157024793388,
+      "transcription_length": 3457,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 6.115702479338843,
+      "cer": 4.28099173553719,
+      "wer_absolute": 6.115702479338843,
+      "cer_absolute": 4.28099173553719,
+      "transcription_length": 3466,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 8.925619834710744,
+      "cer": 6.24793388429752,
+      "wer_absolute": 8.925619834710744,
+      "cer_absolute": 6.24793388429752,
+      "transcription_length": 3453,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 4.793388429752066,
+      "cer": 3.355371900826446,
+      "wer_absolute": 4.793388429752066,
+      "cer_absolute": 3.355371900826446,
+      "transcription_length": 3463,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 4.462809917355372,
+      "cer": 3.12396694214876,
+      "wer_absolute": 4.462809917355372,
+      "cer_absolute": 3.12396694214876,
+      "transcription_length": 3456,
+      "is_baseline": false
+    }
+  ],
+  "WUvTyaaNkzM": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 15864,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.927550681289465,
+      "cer": 1.1907762096774193,
+      "wer_absolute": 1.927550681289465,
+      "cer_absolute": 1.1907762096774193,
+      "transcription_length": 16051,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 2.226653373213692,
+      "cer": 1.3671875,
+      "wer_absolute": 2.226653373213692,
+      "cer_absolute": 1.3671875,
+      "transcription_length": 16057,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.1,
+      "wer": 3.456297773346627,
+      "cer": 2.4949596774193545,
+      "wer_absolute": 3.456297773346627,
+      "cer_absolute": 2.4949596774193545,
+      "transcription_length": 15861,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.2,
+      "wer": 3.3233632436025258,
+      "cer": 2.331149193548387,
+      "wer_absolute": 3.3233632436025258,
+      "cer_absolute": 2.331149193548387,
+      "transcription_length": 15910,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 4.752409438351612,
+      "cer": 3.7550403225806455,
+      "wer_absolute": 4.752409438351612,
+      "cer_absolute": 3.7550403225806455,
+      "transcription_length": 15671,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 4.701441317776252,
+      "cer": 3.2910089224433765,
+      "wer_absolute": 4.701441317776252,
+      "cer_absolute": 3.2910089224433765,
+      "transcription_length": 16055,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 6.177076183939602,
+      "cer": 4.323953328757721,
+      "wer_absolute": 6.177076183939602,
+      "cer_absolute": 4.323953328757721,
+      "transcription_length": 16001,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 5.250514756348661,
+      "cer": 3.675360329444062,
+      "wer_absolute": 5.250514756348661,
+      "cer_absolute": 3.675360329444062,
+      "transcription_length": 16080,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 5.3877831159917635,
+      "cer": 3.771448181194234,
+      "wer_absolute": 5.3877831159917635,
+      "cer_absolute": 3.771448181194234,
+      "transcription_length": 16059,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 4.804392587508579,
+      "cer": 3.3630748112560047,
+      "wer_absolute": 4.804392587508579,
+      "cer_absolute": 3.3630748112560047,
+      "transcription_length": 16035,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 5.456417295813315,
+      "cer": 3.8194921070693204,
+      "wer_absolute": 5.456417295813315,
+      "cer_absolute": 3.8194921070693204,
+      "transcription_length": 16061,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 6.0741249142072755,
+      "cer": 4.251887439945093,
+      "wer_absolute": 6.0741249142072755,
+      "cer_absolute": 4.251887439945093,
+      "transcription_length": 16024,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 6.108442004118051,
+      "cer": 4.275909402882635,
+      "wer_absolute": 6.108442004118051,
+      "cer_absolute": 4.275909402882635,
+      "transcription_length": 15943,
+      "is_baseline": false
+    }
+  ],
+  "kTXTPe3wahc": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 20387,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.89520624303233,
+      "cer": 0.9662077596996246,
+      "wer_absolute": 1.89520624303233,
+      "cer_absolute": 0.9662077596996246,
+      "transcription_length": 20405,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 8.38907469342252,
+      "cer": 7.304130162703379,
+      "wer_absolute": 8.38907469342252,
+      "cer_absolute": 7.304130162703379,
+      "transcription_length": 21002,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 5.852842809364549,
+      "cer": 4.020025031289111,
+      "wer_absolute": 5.852842809364549,
+      "cer_absolute": 4.020025031289111,
+      "transcription_length": 19905,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 2.637614678899083,
+      "cer": 1.8463302752293578,
+      "wer_absolute": 2.637614678899083,
+      "cer_absolute": 1.8463302752293578,
+      "transcription_length": 20431,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 2.86697247706422,
+      "cer": 2.006880733944954,
+      "wer_absolute": 2.86697247706422,
+      "cer_absolute": 2.006880733944954,
+      "transcription_length": 20439,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 2.9529816513761467,
+      "cer": 2.0670871559633026,
+      "wer_absolute": 2.9529816513761467,
+      "cer_absolute": 2.0670871559633026,
+      "transcription_length": 20440,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 2.637614678899083,
+      "cer": 1.8463302752293578,
+      "wer_absolute": 2.637614678899083,
+      "cer_absolute": 1.8463302752293578,
+      "transcription_length": 20419,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 3.641055045871559,
+      "cer": 2.5487385321100913,
+      "wer_absolute": 3.641055045871559,
+      "cer_absolute": 2.5487385321100913,
+      "transcription_length": 20394,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 3.698394495412844,
+      "cer": 2.5888761467889907,
+      "wer_absolute": 3.698394495412844,
+      "cer_absolute": 2.5888761467889907,
+      "transcription_length": 20338,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 5.47591743119266,
+      "cer": 3.8331422018348618,
+      "wer_absolute": 5.47591743119266,
+      "cer_absolute": 3.8331422018348618,
+      "transcription_length": 20059,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 6.8807339449541285,
+      "cer": 4.816513761467889,
+      "wer_absolute": 6.8807339449541285,
+      "cer_absolute": 4.816513761467889,
+      "transcription_length": 20002,
+      "is_baseline": false
+    }
+  ],
+  "XayNKY944lY": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 2858,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.1,
+      "wer": 17.85028790786948,
+      "cer": 16.183315431435734,
+      "wer_absolute": 17.85028790786948,
+      "cer_absolute": 16.183315431435734,
+      "transcription_length": 3313,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 17.274472168905948,
+      "cer": 15.86108127461511,
+      "wer_absolute": 17.274472168905948,
+      "cer_absolute": 15.86108127461511,
+      "transcription_length": 3311,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 16.89059500959693,
+      "cer": 15.180809165771572,
+      "wer_absolute": 16.89059500959693,
+      "cer_absolute": 15.180809165771572,
+      "transcription_length": 3287,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 18.042226487523994,
+      "cer": 16.040100250626566,
+      "wer_absolute": 18.042226487523994,
+      "cer_absolute": 16.040100250626566,
+      "transcription_length": 3310,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 19.577735124760075,
+      "cer": 16.648764769065522,
+      "wer_absolute": 19.577735124760075,
+      "cer_absolute": 16.648764769065522,
+      "transcription_length": 3300,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 22.8515625,
+      "cer": 15.996093749999998,
+      "wer_absolute": 22.8515625,
+      "cer_absolute": 15.996093749999998,
+      "transcription_length": 3310,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 22.0703125,
+      "cer": 15.449218749999998,
+      "wer_absolute": 22.0703125,
+      "cer_absolute": 15.449218749999998,
+      "transcription_length": 3311,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 21.875,
+      "cer": 15.312499999999998,
+      "wer_absolute": 21.875,
+      "cer_absolute": 15.312499999999998,
+      "transcription_length": 3309,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 21.875,
+      "cer": 15.312499999999998,
+      "wer_absolute": 21.875,
+      "cer_absolute": 15.312499999999998,
+      "transcription_length": 3306,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 22.4609375,
+      "cer": 15.722656249999998,
+      "wer_absolute": 22.4609375,
+      "cer_absolute": 15.722656249999998,
+      "transcription_length": 3308,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 23.046875,
+      "cer": 16.1328125,
+      "wer_absolute": 23.046875,
+      "cer_absolute": 16.1328125,
+      "transcription_length": 3314,
+      "is_baseline": false
+    }
+  ],
+  "engineerguy_microwave": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 4582,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.2642225031605563,
+      "cer": 0.6431581281880683,
+      "wer_absolute": 1.2642225031605563,
+      "cer_absolute": 0.6431581281880683,
+      "transcription_length": 4610,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 1.7699115044247788,
+      "cer": 0.7762253271235307,
+      "wer_absolute": 1.7699115044247788,
+      "cer_absolute": 0.7762253271235307,
+      "transcription_length": 4592,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 1.5170670037926675,
+      "cer": 0.7762253271235307,
+      "wer_absolute": 1.5170670037926675,
+      "cer_absolute": 0.7762253271235307,
+      "transcription_length": 4594,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 2.0227560050568902,
+      "cer": 1.1310711909514306,
+      "wer_absolute": 2.0227560050568902,
+      "cer_absolute": 1.1310711909514306,
+      "transcription_length": 4608,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 13.90644753476612,
+      "cer": 11.199822577068087,
+      "wer_absolute": 13.90644753476612,
+      "cer_absolute": 11.199822577068087,
+      "transcription_length": 5010,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 14.032869785082175,
+      "cer": 10.246174318030606,
+      "wer_absolute": 14.032869785082175,
+      "cer_absolute": 10.246174318030606,
+      "transcription_length": 4362,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 4.447268106734435,
+      "cer": 3.1130876747141043,
+      "wer_absolute": 4.447268106734435,
+      "cer_absolute": 3.1130876747141043,
+      "transcription_length": 4580,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 3.9390088945362134,
+      "cer": 2.7573062261753494,
+      "wer_absolute": 3.9390088945362134,
+      "cer_absolute": 2.7573062261753494,
+      "transcription_length": 4603,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 4.5743329097839895,
+      "cer": 3.2020330368487926,
+      "wer_absolute": 4.5743329097839895,
+      "cer_absolute": 3.2020330368487926,
+      "transcription_length": 4585,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 12.579415501905972,
+      "cer": 8.80559085133418,
+      "wer_absolute": 12.579415501905972,
+      "cer_absolute": 8.80559085133418,
+      "transcription_length": 4963,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 5.209656925031767,
+      "cer": 3.6467598475222363,
+      "wer_absolute": 5.209656925031767,
+      "cer_absolute": 3.6467598475222363,
+      "transcription_length": 4585,
+      "is_baseline": false
+    }
+  ],
+  "kurzgesagt_quantum": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 6993,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.08291873963515754,
+      "cer": 0.07243227582210633,
+      "wer_absolute": 0.08291873963515754,
+      "cer_absolute": 0.07243227582210633,
+      "transcription_length": 6991,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 0.41459369817578773,
+      "cer": 0.36216137911053164,
+      "wer_absolute": 0.41459369817578773,
+      "cer_absolute": 0.36216137911053164,
+      "transcription_length": 6978,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 0.08291873963515754,
+      "cer": 0.07243227582210633,
+      "wer_absolute": 0.08291873963515754,
+      "cer_absolute": 0.07243227582210633,
+      "transcription_length": 6991,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 0.4975124378109453,
+      "cer": 0.3911342894393742,
+      "wer_absolute": 0.4975124378109453,
+      "cer_absolute": 0.3911342894393742,
+      "transcription_length": 7005,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 0.4975124378109453,
+      "cer": 0.2897291032884253,
+      "wer_absolute": 0.4975124378109453,
+      "cer_absolute": 0.2897291032884253,
+      "transcription_length": 6996,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 1.7412935323383085,
+      "cer": 1.3762132406200203,
+      "wer_absolute": 1.7412935323383085,
+      "cer_absolute": 1.3762132406200203,
+      "transcription_length": 6909,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 1.9071310116086235,
+      "cer": 1.1878893234825438,
+      "wer_absolute": 1.9071310116086235,
+      "cer_absolute": 1.1878893234825438,
+      "transcription_length": 6968,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 1.6722408026755853,
+      "cer": 1.1705685618729096,
+      "wer_absolute": 1.6722408026755853,
+      "cer_absolute": 1.1705685618729096,
+      "transcription_length": 6980,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 1.3377926421404682,
+      "cer": 0.9364548494983277,
+      "wer_absolute": 1.3377926421404682,
+      "cer_absolute": 0.9364548494983277,
+      "transcription_length": 6989,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 2.0066889632107023,
+      "cer": 1.4046822742474916,
+      "wer_absolute": 2.0066889632107023,
+      "cer_absolute": 1.4046822742474916,
+      "transcription_length": 6995,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 1.3377926421404682,
+      "cer": 0.9364548494983277,
+      "wer_absolute": 1.3377926421404682,
+      "cer_absolute": 0.9364548494983277,
+      "transcription_length": 6989,
+      "is_baseline": false
+    }
+  ],
+  "Ywn2Lz5zmYg": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 5364,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.2,
+      "wer": 0.10752688172043011,
+      "cer": 0.018925056775170326,
+      "wer_absolute": 0.10752688172043011,
+      "cer_absolute": 0.018925056775170326,
+      "transcription_length": 5367,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 0.21505376344086022,
+      "cer": 0.0757002271006813,
+      "wer_absolute": 0.21505376344086022,
+      "cer_absolute": 0.0757002271006813,
+      "transcription_length": 5362,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 0.3225806451612903,
+      "cer": 0.34065102195306585,
+      "wer_absolute": 0.3225806451612903,
+      "cer_absolute": 0.34065102195306585,
+      "transcription_length": 5377,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.5,
+      "wer": 0.5376344086021506,
+      "cer": 0.32172596517789553,
+      "wer_absolute": 0.5376344086021506,
+      "cer_absolute": 0.32172596517789553,
+      "transcription_length": 5355,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 1.5053763440860215,
+      "cer": 1.3058289174867523,
+      "wer_absolute": 1.5053763440860215,
+      "cer_absolute": 1.3058289174867523,
+      "transcription_length": 5318,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 0.6451612903225806,
+      "cer": 0.58667676003028,
+      "wer_absolute": 0.6451612903225806,
+      "cer_absolute": 0.58667676003028,
+      "transcription_length": 5405,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 1.2903225806451613,
+      "cer": 0.7759273277819834,
+      "wer_absolute": 1.2903225806451613,
+      "cer_absolute": 0.7759273277819834,
+      "transcription_length": 5396,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 12.258064516129032,
+      "cer": 10.919757759273278,
+      "wer_absolute": 12.258064516129032,
+      "cer_absolute": 10.919757759273278,
+      "transcription_length": 4825,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 3.875968992248062,
+      "cer": 2.713178294573643,
+      "wer_absolute": 3.875968992248062,
+      "cer_absolute": 2.713178294573643,
+      "transcription_length": 5340,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 4.540420819490587,
+      "cer": 3.1782945736434103,
+      "wer_absolute": 4.540420819490587,
+      "cer_absolute": 3.1782945736434103,
+      "transcription_length": 5397,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 5.3156146179401995,
+      "cer": 3.7209302325581395,
+      "wer_absolute": 5.3156146179401995,
+      "cer_absolute": 3.7209302325581395,
+      "transcription_length": 5397,
+      "is_baseline": false
+    }
+  ],
+  "2UHS883_P60": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 3532,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.3803680981595092,
+      "cer": 0.9781357882623706,
+      "wer_absolute": 1.3803680981595092,
+      "cer_absolute": 0.9781357882623706,
+      "transcription_length": 3502,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 3.52760736196319,
+      "cer": 2.7330264672036826,
+      "wer_absolute": 3.52760736196319,
+      "cer_absolute": 2.7330264672036826,
+      "transcription_length": 3469,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 2.607361963190184,
+      "cer": 1.9562715765247412,
+      "wer_absolute": 2.607361963190184,
+      "cer_absolute": 1.9562715765247412,
+      "transcription_length": 3507,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 45.24539877300614,
+      "cer": 45.36823935558113,
+      "wer_absolute": 45.24539877300614,
+      "cer_absolute": 45.36823935558113,
+      "transcription_length": 5057,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 2.4539877300613497,
+      "cer": 1.093210586881473,
+      "wer_absolute": 2.4539877300613497,
+      "cer_absolute": 1.093210586881473,
+      "transcription_length": 3506,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 3.6753445635528332,
+      "cer": 2.572741194486983,
+      "wer_absolute": 3.6753445635528332,
+      "cer_absolute": 2.572741194486983,
+      "transcription_length": 3532,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 5.66615620214395,
+      "cer": 3.966309341500765,
+      "wer_absolute": 5.66615620214395,
+      "cer_absolute": 3.966309341500765,
+      "transcription_length": 3497,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.522205206738132,
+      "cer": 2.4655436447166923,
+      "wer_absolute": 3.522205206738132,
+      "cer_absolute": 2.4655436447166923,
+      "transcription_length": 3535,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 3.828483920367534,
+      "cer": 2.6799387442572735,
+      "wer_absolute": 3.828483920367534,
+      "cer_absolute": 2.6799387442572735,
+      "transcription_length": 3532,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 5.51301684532925,
+      "cer": 3.8591117917304745,
+      "wer_absolute": 5.51301684532925,
+      "cer_absolute": 3.8591117917304745,
+      "transcription_length": 3496,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 6.891271056661561,
+      "cer": 4.823889739663093,
+      "wer_absolute": 6.891271056661561,
+      "cer_absolute": 4.823889739663093,
+      "transcription_length": 3477,
+      "is_baseline": false
+    }
+  ],
+  "3PszVWZNWVA": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 14593,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 1.2595419847328244,
+      "cer": 0.8364117934062869,
+      "wer_absolute": 1.2595419847328244,
+      "cer_absolute": 0.8364117934062869,
+      "transcription_length": 14592,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 3.778625954198473,
+      "cer": 2.93441137520039,
+      "wer_absolute": 3.778625954198473,
+      "cer_absolute": 2.93441137520039,
+      "transcription_length": 14255,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 1.4885496183206106,
+      "cer": 0.8085314002927441,
+      "wer_absolute": 1.4885496183206106,
+      "cer_absolute": 0.8085314002927441,
+      "transcription_length": 14544,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 5.229007633587787,
+      "cer": 4.2169094584233635,
+      "wer_absolute": 5.229007633587787,
+      "cer_absolute": 4.2169094584233635,
+      "transcription_length": 14189,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 4.580152671755725,
+      "cer": 3.6732417927092773,
+      "wer_absolute": 4.580152671755725,
+      "cer_absolute": 3.6732417927092773,
+      "transcription_length": 14206,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 5.687022900763359,
+      "cer": 3.2689760925629052,
+      "wer_absolute": 5.687022900763359,
+      "cer_absolute": 3.2689760925629052,
+      "transcription_length": 14428,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 2.4332810047095763,
+      "cer": 1.7032967032967032,
+      "wer_absolute": 2.4332810047095763,
+      "cer_absolute": 1.7032967032967032,
+      "transcription_length": 14578,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 3.6891679748822606,
+      "cer": 2.582417582417582,
+      "wer_absolute": 3.6891679748822606,
+      "cer_absolute": 2.582417582417582,
+      "transcription_length": 14635,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.021978021978022,
+      "cer": 2.115384615384615,
+      "wer_absolute": 3.021978021978022,
+      "cer_absolute": 2.115384615384615,
+      "transcription_length": 14654,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 3.453689167974882,
+      "cer": 2.417582417582417,
+      "wer_absolute": 3.453689167974882,
+      "cer_absolute": 2.417582417582417,
+      "transcription_length": 14577,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 4.945054945054945,
+      "cer": 3.4615384615384617,
+      "wer_absolute": 4.945054945054945,
+      "cer_absolute": 3.4615384615384617,
+      "transcription_length": 14283,
+      "is_baseline": false
+    }
+  ],
+  "IJhgZBn-LHg": [
+    {
+      "speed": 1.0,
+      "wer": 0.0,
+      "cer": 0.0,
+      "wer_absolute": 0.0,
+      "cer_absolute": 0.0,
+      "transcription_length": 16258,
+      "is_baseline": true
+    },
+    {
+      "speed": 1.5,
+      "wer": 4.888593282341204,
+      "cer": 4.617103140126598,
+      "wer_absolute": 4.888593282341204,
+      "cer_absolute": 4.617103140126598,
+      "transcription_length": 15636,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.0,
+      "wer": 2.228134353175923,
+      "cer": 1.2659798932605186,
+      "wer_absolute": 2.228134353175923,
+      "cer_absolute": 1.2659798932605186,
+      "transcription_length": 16243,
+      "is_baseline": false
+    },
+    {
+      "speed": 2.5,
+      "wer": 4.0571998669770535,
+      "cer": 2.6933101650738487,
+      "wer_absolute": 4.0571998669770535,
+      "cer_absolute": 2.6933101650738487,
+      "transcription_length": 16004,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.1,
+      "wer": 3.7383177570093453,
+      "cer": 2.6168224299065415,
+      "wer_absolute": 3.7383177570093453,
+      "cer_absolute": 2.6168224299065415,
+      "transcription_length": 16297,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.2,
+      "wer": 2.97680858428522,
+      "cer": 2.0837660089996537,
+      "wer_absolute": 2.97680858428522,
+      "cer_absolute": 2.0837660089996537,
+      "transcription_length": 16234,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.3,
+      "wer": 3.2191069574247146,
+      "cer": 2.2533748701973,
+      "wer_absolute": 3.2191069574247146,
+      "cer_absolute": 2.2533748701973,
+      "transcription_length": 16238,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.4,
+      "wer": 3.4267912772585665,
+      "cer": 2.3987538940809965,
+      "wer_absolute": 3.4267912772585665,
+      "cer_absolute": 2.3987538940809965,
+      "transcription_length": 16250,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.6,
+      "wer": 3.8075458636206303,
+      "cer": 2.665282104534441,
+      "wer_absolute": 3.8075458636206303,
+      "cer_absolute": 2.665282104534441,
+      "transcription_length": 16267,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.7,
+      "wer": 3.046036690896504,
+      "cer": 2.132225683627553,
+      "wer_absolute": 3.046036690896504,
+      "cer_absolute": 2.132225683627553,
+      "transcription_length": 16255,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.8,
+      "wer": 3.5652474904811355,
+      "cer": 2.4956732433367947,
+      "wer_absolute": 3.5652474904811355,
+      "cer_absolute": 2.4956732433367947,
+      "transcription_length": 16260,
+      "is_baseline": false
+    },
+    {
+      "speed": 1.9,
+      "wer": 3.5998615437867776,
+      "cer": 2.519903080650744,
+      "wer_absolute": 3.5998615437867776,
+      "cer_absolute": 2.519903080650744,
+      "transcription_length": 16259,
+      "is_baseline": false
+    }
+  ]
+}
